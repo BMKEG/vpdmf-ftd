@@ -48,24 +48,10 @@
 									<upperValue xmi:type='uml:LiteralUnlimitedNatural' xmi:id='_15_5_1_668022b_1376179378878_672805_660' name='' visibility='public' value='-1'/>
 									<lowerValue xmi:type='uml:LiteralInteger' xmi:id='_15_5_1_668022b_1376179378878_499924_659' name='' visibility='public' value='0'/>
 								</ownedAttribute>
-								<ownedAttribute xmi:type='uml:Property' xmi:id='_15_5_1_668022b_1396055167165_974025_745' name='pdfLoaded' visibility='private' isOrdered='false' isUnique='true' isLeaf='false' isStatic='false' isReadOnly='false' isDerived='false' isDerivedUnion='false' aggregation='none'>
-									<type xmi:type='uml:DataType' href='UML_Standard_Profile.xml#eee_1045467100323_191782_59'>
-										<xmi:Extension extender='MagicDraw UML 15.5' extenderID='MagicDraw UML 15.5'>
-											<referenceExtension referentPath='UML Standard Profile::MagicDraw Profile::datatypes::boolean' referentType='DataType'/>
-										</xmi:Extension>
-									</type>
-								</ownedAttribute>
 								<ownedAttribute xmi:type='uml:Property' xmi:id='_15_5_1_668022b_1394814311348_561540_378' name='pmcXmlFile' visibility='private' isOrdered='false' isUnique='true' isLeaf='false' isStatic='false' isReadOnly='false' isDerived='false' isDerivedUnion='false' aggregation='none'>
 									<type xmi:type='uml:PrimitiveType' href='http://schema.omg.org/spec/UML/2.0/uml.xml#String'>
 										<xmi:Extension extender='MagicDraw UML 15.5' extenderID='MagicDraw UML 15.5'>
 											<referenceExtension referentPath='UML Standard Profile::UML2 Metamodel::AuxiliaryConstructs::PrimitiveTypes::String' referentType='PrimitiveType'/>
-										</xmi:Extension>
-									</type>
-								</ownedAttribute>
-								<ownedAttribute xmi:type='uml:Property' xmi:id='_15_5_1_668022b_1396055208418_716379_749' name='pmcLoaded' visibility='private' isOrdered='false' isUnique='true' isLeaf='false' isStatic='false' isReadOnly='false' isDerived='false' isDerivedUnion='false' aggregation='none'>
-									<type xmi:type='uml:DataType' href='UML_Standard_Profile.xml#eee_1045467100323_191782_59'>
-										<xmi:Extension extender='MagicDraw UML 15.5' extenderID='MagicDraw UML 15.5'>
-											<referenceExtension referentPath='UML Standard Profile::MagicDraw Profile::datatypes::boolean' referentType='DataType'/>
 										</xmi:Extension>
 									</type>
 								</ownedAttribute>
@@ -76,24 +62,10 @@
 										</xmi:Extension>
 									</type>
 								</ownedAttribute>
-								<ownedAttribute xmi:type='uml:Property' xmi:id='_15_5_1_668022b_1396055225878_614867_751' name='swfLoaded' visibility='private' isOrdered='false' isUnique='true' isLeaf='false' isStatic='false' isReadOnly='false' isDerived='false' isDerivedUnion='false' aggregation='none'>
-									<type xmi:type='uml:DataType' href='UML_Standard_Profile.xml#eee_1045467100323_191782_59'>
-										<xmi:Extension extender='MagicDraw UML 15.5' extenderID='MagicDraw UML 15.5'>
-											<referenceExtension referentPath='UML Standard Profile::MagicDraw Profile::datatypes::boolean' referentType='DataType'/>
-										</xmi:Extension>
-									</type>
-								</ownedAttribute>
 								<ownedAttribute xmi:type='uml:Property' xmi:id='_15_5_1_668022b_1394814336376_19587_382' name='xmlFile' visibility='private' isOrdered='false' isUnique='true' isLeaf='false' isStatic='false' isReadOnly='false' isDerived='false' isDerivedUnion='false' aggregation='none'>
 									<type xmi:type='uml:PrimitiveType' href='http://schema.omg.org/spec/UML/2.0/uml.xml#String'>
 										<xmi:Extension extender='MagicDraw UML 15.5' extenderID='MagicDraw UML 15.5'>
 											<referenceExtension referentPath='UML Standard Profile::UML2 Metamodel::AuxiliaryConstructs::PrimitiveTypes::String' referentType='PrimitiveType'/>
-										</xmi:Extension>
-									</type>
-								</ownedAttribute>
-								<ownedAttribute xmi:type='uml:Property' xmi:id='_15_5_1_668022b_1396055190728_196497_747' name='xmlLoaded' visibility='private' isOrdered='false' isUnique='true' isLeaf='false' isStatic='false' isReadOnly='false' isDerived='false' isDerivedUnion='false' aggregation='none'>
-									<type xmi:type='uml:DataType' href='UML_Standard_Profile.xml#eee_1045467100323_191782_59'>
-										<xmi:Extension extender='MagicDraw UML 15.5' extenderID='MagicDraw UML 15.5'>
-											<referenceExtension referentPath='UML Standard Profile::MagicDraw Profile::datatypes::boolean' referentType='DataType'/>
 										</xmi:Extension>
 									</type>
 								</ownedAttribute>
@@ -329,8 +301,8 @@
 					<diagramOpened xmi:value='true'/>
 					<diagramFrameInitialSizeSet xmi:value='true'/>
 					<diagramWindowBounds>2, 24, 807, 702</diagramWindowBounds>
-					<diagramScrollPositionX xmi:value='110'/>
-					<diagramScrollPositionY xmi:value='0'/>
+					<diagramScrollPositionX xmi:value='0'/>
+					<diagramScrollPositionY xmi:value='30'/>
 					<maximized xmi:value='false'/>
 					<active xmi:value='true'/>
 					<mdOwnedViews>
@@ -340,7 +312,7 @@
 						</mdElement>
 						<mdElement elementClass='Class' xmi:id='_15_5_1_668022b_1336589968816_571935_987'>
 							<elementID xmi:idref='_15_5_1_668022b_1336589968782_892103_1199'/>
-							<geometry>245, 56, 114, 157</geometry>
+							<geometry>245, 56, 103, 105</geometry>
 						</mdElement>
 						<mdElement elementClass='Class' xmi:id='_15_5_1_671022e_1369666311173_393780_652'>
 							<elementID xmi:idref='_15_5_1_671022e_1369666311172_901700_651'/>
@@ -350,64 +322,64 @@
 							<elementID xmi:idref='_15_5_1_671022e_1369666394167_158060_674'/>
 							<linkFirstEndID xmi:idref='_15_5_1_668022b_1336589968816_571935_987'/>
 							<linkSecondEndID xmi:idref='_15_5_1_671022e_1369666311173_393780_652'/>
-							<geometry>359, 109; 459, 109; 459, 210; </geometry>
+							<geometry>348, 109; 459, 109; 459, 210; </geometry>
 							<linkNameID xmi:idref='_15_5_1_671022e_1369666394181_455109_721'/>
 							<nameVisible xmi:value='true'/>
 							<mdOwnedViews>
 								<mdElement elementClass='TextBox' xmi:id='_15_5_1_671022e_1369666394180_89520_680'>
 									<editable xmi:value='false'/>
 									<visible xmi:value='false'/>
-									<geometry>465, 103, 24, 12</geometry>
+									<geometry>441, 85, 24, 12</geometry>
 								</mdElement>
 								<mdElement elementClass='TextBoxWithIcon' xmi:id='_15_5_1_671022e_1369666394180_280793_682'>
 									<editable xmi:value='false'/>
 									<visible xmi:value='false'/>
-									<geometry>444, 125, 24, 13</geometry>
+									<geometry>443, 120, 24, 13</geometry>
 								</mdElement>
 								<mdElement elementClass='TextBox' xmi:id='_15_5_1_671022e_1369666394180_657553_685'>
 									<editable xmi:value='false'/>
 									<visible xmi:value='false'/>
-									<geometry>445, 138, 24, 12</geometry>
+									<geometry>445, 134, 24, 12</geometry>
 								</mdElement>
 								<mdElement elementClass='TextBox' xmi:id='_15_5_1_671022e_1369666394180_504231_687'>
 									<editable xmi:value='false'/>
 									<visible xmi:value='false'/>
-									<geometry>387, 96, 24, 12</geometry>
+									<geometry>378, 95, 24, 12</geometry>
 								</mdElement>
 								<mdElement elementClass='TextBox' xmi:id='_15_5_1_671022e_1369666394180_182425_689'>
 									<editable xmi:value='false'/>
 									<visible xmi:value='false'/>
-									<geometry>447, 154, 24, 12</geometry>
+									<geometry>447, 152, 24, 12</geometry>
 								</mdElement>
 								<mdElement elementClass='Role' xmi:id='_15_5_1_671022e_1369666394168_405266_678'>
 									<elementID xmi:idref='_15_5_1_671022e_1369666394167_774612_675'/>
-									<geometry>359, 104, 10, 10</geometry>
+									<geometry>348, 104, 10, 10</geometry>
 									<mdOwnedViews>
 										<mdElement elementClass='TextBox' xmi:id='_15_5_1_671022e_1369666394180_907108_691'>
-											<geometry>363, 95, 24, 13</geometry>
+											<geometry>352, 95, 24, 13</geometry>
 											<text>-ftds</text>
 										</mdElement>
 										<mdElement elementClass='TextBox' xmi:id='_15_5_1_671022e_1369666394180_743693_693'>
-											<geometry>363, 113, 24, 13</geometry>
+											<geometry>352, 113, 24, 13</geometry>
 											<text>0..*</text>
 										</mdElement>
 										<mdElement elementClass='TextBox' xmi:id='_15_5_1_671022e_1369666394180_67616_695'>
 											<visible xmi:value='false'/>
-											<geometry>359, 104, 24, 12</geometry>
+											<geometry>348, 104, 24, 12</geometry>
 										</mdElement>
 										<mdElement elementClass='TextBoxWithIcon' xmi:id='_15_5_1_671022e_1369666394180_469829_697'>
 											<editable xmi:value='false'/>
 											<visible xmi:value='false'/>
-											<geometry>359, 121, 24, 13</geometry>
+											<geometry>348, 121, 24, 13</geometry>
 										</mdElement>
 										<mdElement elementClass='TextBox' xmi:id='_15_5_1_671022e_1369666394180_761313_700'>
 											<visible xmi:value='false'/>
-											<geometry>359, 104, 24, 12</geometry>
+											<geometry>348, 104, 24, 12</geometry>
 										</mdElement>
 										<mdElement elementClass='TextBox' xmi:id='_15_5_1_671022e_1369666394180_124656_702'>
 											<editable xmi:value='false'/>
 											<visible xmi:value='false'/>
-											<geometry>359, 104, 24, 13</geometry>
+											<geometry>348, 104, 24, 13</geometry>
 										</mdElement>
 									</mdOwnedViews>
 									<roleNameID xmi:idref='_15_5_1_671022e_1369666394180_907108_691'/>
@@ -457,7 +429,7 @@
 								</mdElement>
 								<mdElement elementClass='AssociationTextBox' xmi:id='_15_5_1_671022e_1369666394181_455109_721'>
 									<visible xmi:value='false'/>
-									<geometry>447, 103, 36, 13</geometry>
+									<geometry>435, 96, 36, 13</geometry>
 									<reverseIcon xmi:value='true'/>
 								</mdElement>
 							</mdOwnedViews>
@@ -776,7 +748,6 @@
 				<packagedElement xmi:type='uml:Profile' xmi:id='_be00301_1073394351331_445580_2' name='MagicDraw Profile' visibility='public'>
 					<packagedElement xmi:type='uml:Package' xmi:id='_9_0_2_be00301_1111670217596_336168_627' name='datatypes' visibility='public'>
 						<packagedElement xmi:type='uml:DataType' xmi:id='eee_1045467100323_917313_65' name='int' visibility='public'/>
-						<packagedElement xmi:type='uml:DataType' xmi:id='eee_1045467100323_191782_59' name='boolean' visibility='public'/>
 					</packagedElement>
 					<packagedElement xmi:type='uml:Extension' xmi:id='_10_0EAPbeta_be00301_1123081772498_531863_355' visibility='public'>
 						<memberEnd xmi:idref='_10_0EAPbeta_be00301_1123081772498_435993_357'/>
@@ -1076,7 +1047,7 @@
 						<mdElement elementClass='StringProperty'>
 							<propertyID>INFO_PROPERTY</propertyID>
 							<propertyDescriptionID>INFO_PROPERTY_DESCRIPTION</propertyDescriptionID>
-							<value>7 36 30 57 2e 37 5 77 0 48 5b ba 63 b3 f0 b 55 a9 a5 c9 5a f4 c1 4f 81 f4 9e 49 75 8b a 84 be 91 7 e 5 e1 a0 3e f1 b0 f8 cf 13 c1 15 8 d5 6d 6f 45 bc 71 d3 32 c6 1c fb da 97 af 18 d7 30 a6 a4 8d 29 </value>
+							<value>7 36 30 57 2e 37 5 77 0 48 5b ba 63 b3 f0 b 55 a9 a5 c9 5a f4 c1 42 81 f0 9f 49 72 88 a 84 be 91 7 e 5 e1 a0 3e f1 b0 f8 cf 13 c1 15 8 d5 6d 6f 45 bc 71 d3 32 c6 1c fb da 97 af 18 d7 30 a6 a4 8d 29 </value>
 							<multiline xmi:value='false'/>
 						</mdElement>
 						<mdElement elementClass='LIST_PROPERTY'>
