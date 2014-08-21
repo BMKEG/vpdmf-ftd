@@ -23,8 +23,8 @@
 	</primitives>
 	<vpdmfLabel format="$2$ [@3@]" />
 	<indexElements>
-		<indexElement pos="1" p="FTDFragment" c="FTDFragment" a="text" />
-		<indexElement pos="2" p="FTD" c="FTD" a="checksum" />
+		<indexElement pos="1" p="FTD" c="FTD" a="name" />
+		<indexElement pos="2" p="FTDFragment" c="FTDFragment" a="frgOrder" />
 		<indexElement pos="3" p="FTDFragmentBlock" c="FTDFragmentBlock" a="text" />
 		<indexElement pos="4" p="FTDFragmentBlock" c="FTDFragmentBlock" a="x1" />
 		<indexElement pos="5" p="FTDFragmentBlock" c="FTDFragmentBlock" a="y1" />
