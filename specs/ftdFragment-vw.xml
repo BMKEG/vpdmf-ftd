@@ -36,5 +36,6 @@
 		<indexElement pos="11" p="FTDFragmentBlock" c="FTDFragmentBlock" a="y4" />
 		<indexElement pos="12" p="FTDFragmentBlock" c="FTDFragmentBlock" a="p" />
 		<indexElement pos="13" p="FTDFragment" c="FTDFragment" a="frgType" />
+		<indexElement pos="14" p="FTDFragmentBlock" c="FTDFragmentBlock" a="code" />
 	</indexElements>
 </view>

@@ -152,13 +152,7 @@
 									<upperValue xmi:type='uml:LiteralUnlimitedNatural' xmi:id='_15_5_1_668022b_1376179416348_898366_664' name='' visibility='public' value='-1'/>
 									<lowerValue xmi:type='uml:LiteralInteger' xmi:id='_15_5_1_668022b_1376179416348_942919_663' name='' visibility='public' value='1'/>
 								</ownedAttribute>
-								<ownedAttribute xmi:type='uml:Property' xmi:id='_15_5_1_668022b_1376179197092_663128_643' name='frgOrder' visibility='private' isOrdered='false' isUnique='true' isLeaf='false' isStatic='false' isReadOnly='false' isDerived='false' isDerivedUnion='false' aggregation='none'>
-									<type xmi:type='uml:PrimitiveType' href='http://schema.omg.org/spec/UML/2.0/uml.xml#String'>
-										<xmi:Extension extender='MagicDraw UML 15.5' extenderID='MagicDraw UML 15.5'>
-											<referenceExtension referentPath='UML Standard Profile::UML2 Metamodel::AuxiliaryConstructs::PrimitiveTypes::String' referentType='PrimitiveType'/>
-										</xmi:Extension>
-									</type>
-								</ownedAttribute>
+								<ownedAttribute xmi:type='uml:Property' xmi:id='_15_5_1_668022b_1376179197092_663128_643' name='frgOrder' visibility='private' isOrdered='false' isUnique='true' isLeaf='false' isStatic='false' isReadOnly='false' isDerived='false' isDerivedUnion='false' aggregation='none' type='_15_5_1_668022b_1409953156698_217699_736'/>
 								<ownedAttribute xmi:type='uml:Property' xmi:id='_15_5_1_668022b_1376602842030_360069_736' name='frgType' visibility='private' isOrdered='false' isUnique='true' isLeaf='false' isStatic='false' isReadOnly='false' isDerived='false' isDerivedUnion='false' aggregation='none' type='_15_5_1_668022b_1409953156698_217699_736'/>
 							</packagedElement>
 							<packagedElement xmi:type='uml:Class' xmi:id='_15_5_1_668022b_1376179139476_299564_517' name='FTDFragmentBlock' visibility='public' isLeaf='false' isAbstract='false' isActive='false'>
@@ -239,7 +233,6 @@
 								<memberEnd xmi:idref='_15_5_1_668022b_1376179191227_335039_594'/>
 								<memberEnd xmi:idref='_15_5_1_668022b_1376179191227_731105_595'/>
 							</packagedElement>
-							<packagedElement xmi:type='uml:Class' xmi:id='_15_5_1_668022b_1409953156698_217699_736' name='shortString' visibility='public' isLeaf='false' isAbstract='false' isActive='false'/>
 						</packagedElement>
 						<packagedElement xmi:type='uml:Package' xmi:id='_15_5_1_671022e_1370024009310_81327_671' name='events' visibility='public'>
 							<packagedElement xmi:type='uml:Class' xmi:id='_15_5_1_671022e_1370024025240_333609_693' name='RunRuleSet' visibility='public' isLeaf='false' isAbstract='false' isActive='false'>
@@ -283,6 +276,7 @@
 				<referenceExtension referentPath='UML Profile for Java' referentType='Profile'/>
 			</xmi:Extension>
 		</packagedElement>
+		<packagedElement xmi:type='uml:Class' xmi:id='_15_5_1_668022b_1409953156698_217699_736' name='shortString' visibility='public' isLeaf='false' isAbstract='false' isActive='false'/>
 	</uml:Model>
 	<xmi:Extension extender='MagicDraw UML 15.5'>
 		<mdOwnedDiagrams>
@@ -324,8 +318,8 @@
 					<diagramOpened xmi:value='true'/>
 					<diagramFrameInitialSizeSet xmi:value='true'/>
 					<diagramWindowBounds>2, 24, 899, 948</diagramWindowBounds>
-					<diagramScrollPositionX xmi:value='10'/>
-					<diagramScrollPositionY xmi:value='0'/>
+					<diagramScrollPositionX xmi:value='0'/>
+					<diagramScrollPositionY xmi:value='70'/>
 					<maximized xmi:value='false'/>
 					<active xmi:value='true'/>
 					<mdOwnedViews>
@@ -466,7 +460,7 @@
 						</mdElement>
 						<mdElement elementClass='Class' xmi:id='_15_5_1_668022b_1376179095658_231936_497'>
 							<elementID xmi:idref='_15_5_1_668022b_1376179095657_482066_496'/>
-							<geometry>77, 161, 110, 69</geometry>
+							<geometry>77, 161, 114, 69</geometry>
 						</mdElement>
 						<mdElement elementClass='Class' xmi:id='_15_5_1_668022b_1376179139476_29492_518'>
 							<elementID xmi:idref='_15_5_1_668022b_1376179139476_299564_517'/>
@@ -1072,7 +1066,7 @@
 						<mdElement elementClass='StringProperty'>
 							<propertyID>INFO_PROPERTY</propertyID>
 							<propertyDescriptionID>INFO_PROPERTY_DESCRIPTION</propertyDescriptionID>
-							<value>f 27 72 2b 3c 2f 7b 26 64 d 73 5c 9 7e 1b 79 17 a0 c1 b5 a9 1a a5 98 cb c2 c9 6f 29 c0 25 6e 16 4b ba 65 8a f d4 8d d3 8f 54 22 1d 4c 59 69 eb 30 43 e0 e3 23 2d f6 40 36 1f a9 bb bf ae 16 5c 67 9e ee f2 </value>
+							<value>f 27 72 2b 3c 2f 7b 26 64 d 73 5c 9 7e 1b 79 17 a0 c1 b5 a9 1a a5 9a cb c0 c9 6f 2f c4 25 6e 16 4b ba 65 8a f d4 8d d3 8f 54 22 1d 4c 59 69 eb 30 43 e0 e3 23 2d f6 40 36 1f a9 bb bf ae 16 5c 67 9e ee f2 </value>
 							<multiline xmi:value='false'/>
 						</mdElement>
 						<mdElement elementClass='LIST_PROPERTY'>
