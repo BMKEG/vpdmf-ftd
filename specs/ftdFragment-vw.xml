@@ -15,7 +15,7 @@
 				<class name="FTD"/>
 			</classes>
 		</primitive>
-		<primitive name="FTDFragmentBlock">
+		<primitive name="FTDFragmentBlock" nullable="true">
 			<classes>
 				<class name="FTDFragmentBlock"/>
 			</classes>
