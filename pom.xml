@@ -16,6 +16,7 @@
  	<properties>
 		<vpdmf.model.type>MagicDraw</vpdmf.model.type>
 		<vpdmf.model.path>vpdmf-ftd.xml</vpdmf.model.path>
+		<vpdmf.model.url>http://bmkeg.isi.edu/ftd</vpdmf.model.url>
 		<vpdmf.viewsPath>specs</vpdmf.viewsPath>
 		<vpdmf.nestedModels></vpdmf.nestedModels>  	
  	</properties>
